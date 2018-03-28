@@ -1,0 +1,2 @@
+/* pages/history-list/history-list.wxss */
+@import "/common/style/list.wxss";
